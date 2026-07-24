@@ -1,0 +1,55 @@
+00 - Manifeste
+
+Version 1.0
+
+Pourquoi ce projet existe
+
+Nous vivons dans un monde qui mesure les résultats, classe les performances et oublie le chemin.
+
+Les applications savent compter les jours, les objectifs atteints et les séries ininterrompues.
+
+Elles savent rarement raconter les tentatives.
+
+Pourtant, une vie ne se résume pas à ses victoires.
+
+Elle est faite d'efforts, d'échecs, de sueur, de doutes, d'élans, de passions, de vulnérabilités et de désirs.
+
+La Bibliothèque lunaire est née pour rendre hommage à ces choses-là.
+
+Elle n'est pas un outil de développement personnel.
+
+Elle ne cherche pas à rendre les personnes plus performantes.
+
+Elle ne récompense pas.
+
+Elle témoigne.
+
+Chaque livre, chaque salle, chaque plante, chaque silence raconte qu'une personne est passée ici et a consacré une partie de sa vie à bâtir quelque chose qui comptait pour elle.
+
+Parce que le désir est une force noble.
+
+Parce que le temps offert à un rêve ne disparaît jamais.
+
+Parce qu'il est possible de faire de la poésie avec du code autant qu'avec des mots.
+
+La Bibliothèque lunaire est un mémorial vivant.
+
+Un lieu où les tentatives ont autant de valeur que les réussites.
+
+Un lieu qui affirme qu'un rêve mérite d'être habité avant même d'être accompli.
+
+Nous croyons qu'il est possible de bâtir des choses concrètes, même sur la Lune.
+
+Ce que nous refusons
+Concevoir des mécanismes qui exploitent les failles cognitives pour retenir les personnes.
+Réduire la valeur d'une vie à ses performances.
+Transformer le désir en obligation.
+Faire du progrès une injonction permanente.
+Ce que nous défendons
+La poésie comme composante du logiciel.
+La lenteur comme qualité.
+Le désir comme moteur.
+Le chemin autant que la destination.
+La mémoire comme témoignage d'une existence.
+
+« La Bibliothèque lunaire existe pour rappeler qu'il est possible de bâtir des choses concrètes, même sur la Lune. »
